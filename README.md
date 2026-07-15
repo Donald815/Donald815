@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi I'm Donald 👋
 
-<!--
-**Donald815/Donald815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with 10+ years of experience.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, Java, C# and C++
+- ASP.NET and web development
+- API integration and databases
+- Application maintenance and troubleshooting
+
+## Current interests
+
+- Remote software-development opportunities
+- Open-source collaboration
+- AI and automation projects
